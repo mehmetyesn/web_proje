@@ -8,7 +8,7 @@ Kullanıcı Kayıt/Giriş
 Görev ekleme
 Görev Silme
 Görev Güncelleme
-## Kullanılan Teknolıjiler
+## Kullanılan Teknolojiler
 HTML
 CSS
 JavaScript
