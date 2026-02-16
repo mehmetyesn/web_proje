@@ -1,7 +1,7 @@
 # web_proje
-## proje açıklaması
+## Proje açıklaması
 Bu proje, kullanıcıların görevlerini yönetmesini sağlayan bir web uygulamasıdır.
-## hedef kullanıcılar
+## Hedef kullanıcılar
 öğrenciler
 ## Temel Özellikler
 Kullanıcı Kayıt/Giriş
