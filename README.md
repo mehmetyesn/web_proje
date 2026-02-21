@@ -1,13 +1,17 @@
-# web_proje
+# Çiftlik Yönetimi
 ## Proje açıklaması
-Bu proje, kullanıcıların görevlerini yönetmesini sağlayan bir web uygulamasıdır.
+Bu proje, hayvancılık üzerine yapılan bir projedir. Projenin amacı ;
+   > Kullanıcının hayvan ırkları arasında bilgi alması.
+   > Kullanıcının girdiği bilgilere ve amacına göre bakım önerisinde bulunması.
+   > Hayvanlarının takip sistemi olması.
 ## Hedef kullanıcılar
-öğrenciler
+Hayvancılıkla İlgilenen Kişiler
 ## Temel Özellikler
 Kullanıcı Kayıt/Giriş
-Görev ekleme
-Görev Silme
-Görev Güncelleme
+Irklar ile İlgili Bilgi Bölümü
+Amaca Göre Hesaplama Bölümü
+Hayvan Takip Bölümü
+Kullanıcı Yorum Bölümü
 ## Kullanılan Teknolojiler
 HTML
 CSS
